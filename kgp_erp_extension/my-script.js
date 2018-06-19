@@ -45,35 +45,4 @@ chrome.storage.local.get(null, function(result){
 	console.log(username);
 });
 
-
-
-
-
-// $("#user_id").focus();
-// $("#user_id").val(username);
-// $("#password").val(password);
-// $("#password").focus();
-// var myVar = setInterval(function(){
-// 	var ques = $("#question").html();
-// 	if(ques==ques1)
-// 	{
-// 		$("#answer").val(ans1);
-// 		$(".btn:first").click();
-// 		clearInterval(myVar);
-// 	}
-// 	else if(ques==ques2)
-// 	{
-// 		$("#answer").val(ans2);
-// 		$(".btn:first").click();
-// 		clearInterval(myVar);
-// 	}
-// 	else if(ques==ques3)
-// 	{
-// 		$("#answer").val(ans3);
-// 		$(".btn:first").click();
-// 		clearInterval(myVar);
-// 	}
-
-// }, 500);
-
 	
