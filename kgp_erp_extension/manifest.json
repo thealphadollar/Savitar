@@ -1,7 +1,7 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-	"name": "Savitar: Updated KGP ERP Extension",
+	"name": "Savitar: Blazing Fast ERP Login",
 	"version": "1.2",
 	"description": "Login into the new KGP ERP, at a blazing fast speed. For more information, github.com/thealphadollar/savitar",
 	"content_scripts": [
