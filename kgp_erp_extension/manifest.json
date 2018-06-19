@@ -1,9 +1,9 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-	"name": "ERP extension for KGPians",
-	"version": "1.1.1",
-	"description": "to log in to erp pages without any delay",
+	"name": "Savitar: Updated KGP ERP Extension",
+	"version": "1.2",
+	"description": "Login into the new KGP ERP, at a blazing fast speed. For more information, github.com/thealphadollar/savitar",
 	"content_scripts": [
 	{
 		"matches": ["https://erp.iitkgp.ac.in/SSOAdministration*"],
