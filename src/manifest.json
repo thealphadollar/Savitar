@@ -1,0 +1,20 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "ERP extension for KGPians",
+	"version": "1.1.1",
+	"description": "to log in to erp pages without any delay",
+	"content_scripts": [
+	{
+		"matches": ["https://erp.iitkgp.ac.in/SSOAdministration*"],
+		"js": ["jquery-1.11.1.min.js", "my-script.js"]
+		}],
+	"options_page": "options.html",
+	"permissions":[
+		"storage"
+		],
+	"background":{
+		"scripts": ["background.js"]
+		},
+	"manifest_version": 2
+}
