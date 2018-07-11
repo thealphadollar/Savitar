@@ -31,6 +31,13 @@ Version 1.3 now adds support for automatically skipping the annoying ERP form po
 
 NOTE: You can also opt for reinstalling the new version, old one will automatically be removed.
 
+## Installing in Firefox
+1. Download the `savitar_blazing_fast_erp_login-1.3-an+fx.xpi` file.
+2. Open the add-on manager using `Ctrl+Shift+A` or goto `about:addons`.
+3. Click on the settings(gear) icon near the search add-on bar and select 'Install Add-on from file'.
+4. Find the above file and click open.
+5. Give the permissions and you are done!! :-)
+
 ## Contributing
 Contributions are welcome. Please use kgp_erp_extension.pem while repackaging the extension. 
 
